@@ -1,59 +1,41 @@
-# PGA
+📸 Photo Gallery Application
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
+📌 Description
+The Photo Gallery Application is a web-based application developed using Angular that allows users to upload, view, manage, and organize digital images efficiently. It provides a user-friendly and responsive interface, and full-screen viewing.
+🎯 Objective
+The main objective of this project is to build a dynamic and responsive photo gallery system that enables users to manage their image collections easily across different devices.
+🛠️ Technologies Used
+- Angular
+- HTML
+- CSS
+- JavaScript
+- JSON Server (for data handling)
+✨ Features
+- User Registration and Login    
+- Full-Screen Image View  
+- Rating System ⭐  
+- Comment System 💬  
+- Category-Based Image Display  
+- Responsive Design (Mobile + Desktop)  
+⚙️ Modules
+- Authentication Module (Login/Register)  
+- Admin Module (Upload)  
+- User Module (View, Rate, Comment)  
+- Gallery Module (Display Images)  
 
-## Development server
 
-To start a local development server, run:
+2. Install dependencies:  npm install
+  
+3. Start the Angular application: ng serve
 
-```bash
-ng serve
-```
+🔒 Validation & Security
+- Input validation for login and registration  
+- File type and size validation for images  
+- Error handling for better user experience  
+ 📊 Results
+The application successfully provides a smooth and interactive interface for managing images with real-time updates and efficient performance.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📚 Conclusion
+This project demonstrates the use of Angular for building modern web applications. It highlights the use of components, services, routing, and responsive design to create a dynamic and user-friendly system.
+ 👩‍💻 Author
+K. Divya
